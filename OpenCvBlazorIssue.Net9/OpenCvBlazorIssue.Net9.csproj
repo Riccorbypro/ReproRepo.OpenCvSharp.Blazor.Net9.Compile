@@ -17,7 +17,7 @@
         <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
         
         <!-- Uncomment the below line to reproduce the error that following the compiler's advice gives -->
-        <WasmAllowUndefinedSymbols>true</WasmAllowUndefinedSymbols>
+        <!--<WasmAllowUndefinedSymbols>true</WasmAllowUndefinedSymbols>-->
         
     </PropertyGroup>
 
